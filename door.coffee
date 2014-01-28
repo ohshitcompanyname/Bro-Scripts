@@ -16,7 +16,7 @@
 
 
 module.exports = (robot) ->
-  robot.respond /where's the door?/i, (msg) ->
+  robot.respond /wheres the door?/i, (msg) ->
     doorQueries = ['doors', 'open doors', 'wide open doors']
     door = doorQueries[Math.floor(Math.random() * doorQueries.length)]
 
