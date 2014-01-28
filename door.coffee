@@ -9,7 +9,7 @@
 #   None
 #
 # Commands:
-#   bro where's the door?
+#   bro wheres the door?
 #
 # Author:
 #   tarebyte
